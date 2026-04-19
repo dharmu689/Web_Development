@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+}
+
+h1{
+    background-color: chocolate;
+    position: fixed;
+    width: 100%;
+
+}
+p{
+    padding-top: 50px;
+    padding-left: 10px;
+    
+}
+h2{
+    padding-top: 10px;
+    padding-left: 10px;
+}

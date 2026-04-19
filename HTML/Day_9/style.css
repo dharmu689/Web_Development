@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+}
+header{
+    position: fixed;
+    width: 100%;
+}
+main{
+    padding-top: 140px;
+    padding-left: 20px;
+}
+h1{
+    background-color: burlywood;
+    align-items: center;
+}

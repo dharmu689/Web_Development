@@ -1,0 +1,31 @@
+.conterner{
+    background-color: bisque;
+    margin-left: 40px;
+    margin-top: 40px;
+    display: inline-block;
+}
+
+.box{
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    
+}
+.box1{
+    background-color: red;
+}
+
+.box2{
+    background-color: blue;
+    /* position: ; */
+    top: 10px;
+    left: 10px;
+}
+
+.box3{
+    background-color: green;
+}
+
+.box4{
+    background-color: blueviolet;
+}

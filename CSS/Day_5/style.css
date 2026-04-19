@@ -1,0 +1,13 @@
+.first{
+    background-color: aqua;
+    width: 30vw;
+    height: 10vw;
+    margin: 20px;
+}
+span{
+    display: inline-block;
+    background-color: bisque;
+    margin: 20px;
+    width: 30vw; 
+    height: 20vw;
+}
