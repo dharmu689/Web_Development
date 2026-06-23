@@ -14,3 +14,4 @@ function greet()
 // greet();
 
 name(greet);  //this is a call back function because we are passing a function as an argument to another function
+
