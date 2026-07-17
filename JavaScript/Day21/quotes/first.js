@@ -36,5 +36,11 @@ setInterval(generatQuote,2000);
 
 
 //  Chnage the background color in every 5 second
+const body = document.getElementById("body");
+function changeBackgroundColor() {
+  const randomColor = '#' + Math.floor(Math.random()*16777215).toString(16);
+  body.style.backgroundColor = randomColor;
+}
 
+setInterval(changeBackgroundColor, 2000);
 
